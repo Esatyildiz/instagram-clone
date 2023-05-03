@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "title": "esatyldz_48",
+        "description": "Coder Energy",
+        "image": "/img/profile.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "süleyman_48",
+        "description": "Coder Energy",
+        "image": "https://images.pexels.com/photos/2589653/pexels-photo-2589653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+        "id": 3,
+        "title": "oguz_48",
+        "description": "Coder Energy",
+        "image": "https://images.pexels.com/photos/2955305/pexels-photo-2955305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+        "id": 4,
+        "title": "mehmetAli_48",
+        "description": "Coder Energy",
+        "image": "https://images.unsplash.com/photo-1548544149-4835e62ee5b3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80"
+    },
+    {
+        "id": 5,
+        "title": "recep_48",
+        "description": "Coder Energy",
+        "image": "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-dashboard/assets/img/drake.jpg"
+    },
+    {
+        "id": 6,
+        "title": "ali_48",
+        "description": "Coder Energy",
+        "image": "https://tecdn.b-cdn.net/img/new/avatars/2.webp"
+    },
+    {
+        "id": 7,
+        "title": "hikmet_48",
+        "description": "Coder Energy",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19EaFNNE8RqQ8HeB4ld93gq_4z8EoXkbOUT4YUcqZqHZaixy803NACsEQnPU4d_6O8HA&usqp=CAU"
+    },
+    {
+        "id": 8,
+        "title": "ömer_48",
+        "description": "Coder Energy",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAavo9ACIjv_wYmeOMuf5Z6RhUmyPom4rl5EJYiwz-YGRGcJd1u09475WePekRLCVSIAs&usqp=CAU"
+    },
+    {
+        "id": 9,
+        "title": "can_48",
+        "description": "Coder Energy",
+        "image": "/img/profile.jpeg"
+    },
+    {
+        "id": 10,
+        "title": "cemil_48",
+        "description": "Coder Energy",
+        "image": "/img/profile.jpeg"
+    },
+    {
+        "id": 11,
+        "title": "hakan_48",
+        "description": "Coder Energy",
+        "image": "/img/profile.jpeg"
+    },
+    {
+        "id": 12,
+        "title": "mehmet_48",
+        "description": "Coder Energy",
+        "image": "/img/profile.jpeg"
+    },
+    {
+        "id": 13,
+        "title": "ali_48",
+        "description": "Coder Energy",
+        "image": "/img/profile.jpeg"
+    }
+]
